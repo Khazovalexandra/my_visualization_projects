@@ -27,9 +27,18 @@
 
 ## Python projects 
 
-> Библиотеки pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, request, functools
+> Библиотеки pandas, numpy, matplotlib, seaborn, plotly, BeautifulSoup, request, functools, dash
 
-**1. MapReduce для данных по ароматам какао.**
+**1. Dash projects.**
+
+Проекты, реализованные с помощью библитеки Python dash.
+Чтобы установить библиотеку, в командной строке вводим:
+
+```
+pip install dash
+```
+
+**2. MapReduce для данных по ароматам какао.**
 
  Использование стека MapReduce для быстрого подсчета количества повторений слов в столбце.
 
@@ -39,7 +48,7 @@
 - конвертация данных типа list в Dataframe (с помощью библиотеки pandas)
 - визуализация
 
-**2. Красивая визуализация данных, взятых из [статьи о выбросах углекислого газа по странам](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions) с Википедии.**
+**3. Красивая визуализация данных, взятых из [статьи о выбросах углекислого газа по странам](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions) с Википедии.**
 
  > если программа на вашем компьютере не запускается, то скорее всего у вас не установлена библиотека plotly или bs4 или обе библиотеки сразу. 
 

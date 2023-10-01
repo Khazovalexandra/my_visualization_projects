@@ -95,6 +95,8 @@ pip install dash
 
 > Реализуется с помощью библиотек matplotlib, numpy, scipy.
 
+![Формулы распределений вероятностей](https://github.com/Khazovalexandra/my_visualization_projects/edit/main/image-40-1024x572.png)
+
  - Визуализация распределения Бернулли(Bern_distribution). 
  - Биномиальное распределение(Binom_distribution).
  - Геометрическое распределение(Geom_distribution).
